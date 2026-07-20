@@ -6,3 +6,4 @@ Repository structure:
 - square/ : square blue-background PNG logo variants
 - svg/    : SVG versions
 - ascii/  : ASCII art logo variants
+- mascor/ : PNG variants of the TideOS mascot
